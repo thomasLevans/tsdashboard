@@ -1,0 +1,30 @@
+{
+  "name": "tsdashboard",
+  "version": "1.0.0",
+  "description": "A dashboard for viewing research publications in the dimension of translational science",
+  "main": "src/app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobeid/tsdashboard.git"
+  },
+  "keywords": [
+    "D3",
+    "Translational",
+    "Science",
+    "MUSC",
+    "BMIC",
+    "Bioinformatics"
+  ],
+  "author": "Thomas Evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jobeid/tsdashboard/issues"
+  },
+  "homepage": "https://github.com/jobeid/tsdashboard#readme"
+}
