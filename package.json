@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/jobeid/tsdashboard/issues"
   },
-  "homepage": "https://github.com/jobeid/tsdashboard#readme"
+  "homepage": "https://github.com/jobeid/tsdashboard#readme",
+  "devDependencies": {
+    "mr-doc": "^3.2.1"
+  }
 }
